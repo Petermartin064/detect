@@ -1,0 +1,283 @@
+2025-08-24 17:58:08,258 - __main__ - INFO - Initializing Kenyan vehicle detection models...
+2025-08-24 17:58:08,481 - easyocr.easyocr - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2025-08-24 17:58:10,695 - __main__ - INFO - Kenyan vehicle detector initialized successfully
+2025-08-24 17:58:10,706 - __main__ - INFO - Processing Kenyan vehicle detection: (222, 333, 3)
+2025-08-24 17:58:13,464 - __main__ - INFO - Detected 1 Kenyan vehicles after filtering
+2025-08-24 17:58:13,469 - __main__ - INFO - Kenyan results saved to: kenyan_results.jpg
+2025-08-24 17:58:13,477 - __main__ - INFO - Kenyan JSON report saved to: kenyan_vehicle_report.json
+2025-08-24 18:01:27,640 - __main__ - INFO - Initializing Kenyan vehicle detection models...
+2025-08-24 18:01:27,828 - easyocr.easyocr - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2025-08-24 18:01:29,958 - __main__ - INFO - Kenyan vehicle detector initialized successfully
+2025-08-24 18:01:29,972 - __main__ - INFO - Processing Kenyan vehicle detection: (248, 495, 3)
+2025-08-24 18:01:33,341 - __main__ - INFO - Detected 2 Kenyan vehicles after filtering
+2025-08-24 18:01:33,347 - __main__ - INFO - Kenyan results saved to: kenyan_results.jpg
+2025-08-24 18:01:33,349 - __main__ - INFO - Kenyan JSON report saved to: kenyan_vehicle_report.json
+2025-08-24 18:02:38,931 - __main__ - INFO - Initializing Kenyan vehicle detection models...
+2025-08-24 18:02:39,117 - easyocr.easyocr - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2025-08-24 18:02:41,261 - __main__ - INFO - Kenyan vehicle detector initialized successfully
+2025-08-24 18:02:41,272 - __main__ - INFO - Processing Kenyan vehicle detection: (222, 333, 3)
+2025-08-24 18:02:44,429 - __main__ - INFO - Detected 1 Kenyan vehicles after filtering
+2025-08-24 18:02:44,433 - __main__ - INFO - Kenyan results saved to: kenyan_results.jpg
+2025-08-24 18:02:44,436 - __main__ - INFO - Kenyan JSON report saved to: kenyan_vehicle_report.json
+2025-08-24 18:06:04,278 - __main__ - INFO - Initializing Kenyan vehicle detection models...
+2025-08-24 18:06:04,477 - easyocr.easyocr - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2025-08-24 18:06:06,647 - __main__ - INFO - Kenyan vehicle detector initialized successfully
+2025-08-24 18:06:06,677 - __main__ - INFO - Processing Kenyan vehicle detection: (439, 595, 3)
+2025-08-24 18:06:11,574 - __main__ - INFO - Detected 5 Kenyan vehicles after filtering
+2025-08-24 18:06:11,584 - __main__ - INFO - Kenyan results saved to: kenyan_results.jpg
+2025-08-24 18:06:11,587 - __main__ - INFO - Kenyan JSON report saved to: kenyan_vehicle_report.json
+2025-08-25 09:32:19,930 - __main__ - INFO - Initializing Kenyan vehicle detection models...
+2025-08-25 09:32:20,713 - easyocr.easyocr - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2025-08-25 09:32:29,084 - __main__ - INFO - Kenyan vehicle detector initialized successfully
+2025-08-25 09:32:29,180 - __main__ - INFO - Processing Kenyan vehicle detection: (248, 495, 3)
+2025-08-25 09:32:36,804 - __main__ - INFO - Plate candidate: 'cu Ssba' -> 'CUS58A', score: 0.348
+2025-08-25 09:32:36,805 - __main__ - INFO - Plate candidate: 'Kcu'Jssa' -> 'KCUJ55A', score: 0.300
+2025-08-25 09:32:36,807 - __main__ - INFO - Plate candidate: 'Kcu.5Ssa' -> 'KCU555A', score: 0.536
+2025-08-25 09:32:39,189 - __main__ - INFO - Detected 2 Kenyan vehicles after filtering
+2025-08-25 09:32:39,201 - __main__ - INFO - Kenyan results saved to: kenyan_results.jpg
+2025-08-25 09:32:39,205 - __main__ - INFO - Kenyan JSON report saved to: kenyan_vehicle_report.json
+2025-08-25 09:33:19,708 - __main__ - INFO - Initializing Kenyan vehicle detection models...
+2025-08-25 09:33:21,244 - easyocr.easyocr - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2025-08-25 09:33:38,010 - __main__ - INFO - Kenyan vehicle detector initialized successfully
+2025-08-25 09:33:38,253 - __main__ - INFO - Processing Kenyan vehicle detection: (439, 595, 3)
+2025-08-25 09:33:55,675 - __main__ - INFO - Plate candidate: 'KpP 77m' -> 'KPP77M', score: 0.414
+2025-08-25 09:33:55,676 - __main__ - INFO - Plate candidate: 'KDPP 777M' -> 'KDPP777M', score: 0.300
+2025-08-25 09:33:55,677 - __main__ - INFO - Plate candidate: 'KPP 777M' -> 'KPP777M', score: 0.681
+2025-08-25 09:34:01,301 - __main__ - INFO - Plate candidate: 'KpP 777M' -> 'KPP777M', score: 0.832
+2025-08-25 09:34:01,302 - __main__ - INFO - Plate candidate: 'KDPP 777M' -> 'KDPP777M', score: 0.300
+2025-08-25 09:34:01,302 - __main__ - INFO - Plate candidate: 'KpP 777M' -> 'KPP777M', score: 0.797
+2025-08-25 09:34:11,700 - __main__ - INFO - Detected 5 Kenyan vehicles after filtering
+2025-08-25 09:34:11,723 - __main__ - INFO - Kenyan results saved to: kenyan_results.jpg
+2025-08-25 09:34:11,731 - __main__ - INFO - Kenyan JSON report saved to: kenyan_vehicle_report.json
+2025-08-25 09:42:42,992 - __main__ - INFO - Initializing Kenyan vehicle detection models...
+2025-08-25 09:42:43,247 - easyocr.easyocr - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2025-08-25 09:42:46,294 - __main__ - INFO - Kenyan vehicle detector initialized successfully
+2025-08-25 09:42:46,350 - __main__ - INFO - Processing Kenyan vehicle detection: (439, 595, 3)
+2025-08-25 09:42:52,164 - __main__ - INFO - Plate candidate: 'KpP 77m' -> 'KPP77M', score: 0.414
+2025-08-25 09:42:52,165 - __main__ - INFO - Plate candidate: 'KDPP 777M' -> 'KDPP777M', score: 0.300
+2025-08-25 09:42:52,165 - __main__ - INFO - Plate candidate: 'KPP 777M' -> 'KPP777M', score: 0.681
+2025-08-25 09:42:53,215 - __main__ - INFO - Plate candidate: 'KpP 777M' -> 'KPP777M', score: 0.832
+2025-08-25 09:42:53,216 - __main__ - INFO - Plate candidate: 'KDPP 777M' -> 'KDPP777M', score: 0.300
+2025-08-25 09:42:53,216 - __main__ - INFO - Plate candidate: 'KpP 777M' -> 'KPP777M', score: 0.797
+2025-08-25 09:42:54,506 - __main__ - INFO - Detected 5 unique Kenyan vehicle(s) after NMS filtering
+2025-08-25 09:42:54,524 - __main__ - INFO - Kenyan results saved to: kenyan_results.jpg
+2025-08-25 09:42:54,530 - __main__ - INFO - Kenyan JSON report saved to: kenyan_vehicle_report.json
+2025-08-25 09:48:07,640 - __main__ - INFO - Initializing Kenyan vehicle detection models...
+2025-08-25 09:48:07,903 - easyocr.easyocr - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2025-08-25 09:48:11,061 - __main__ - INFO - Kenyan vehicle detector initialized successfully
+2025-08-25 09:48:11,099 - __main__ - INFO - Processing Kenyan vehicle detection: (439, 595, 3)
+2025-08-25 09:48:16,671 - __main__ - INFO - Plate candidate: 'KpP 77m' -> 'KPP77M', score: 0.414
+2025-08-25 09:48:16,672 - __main__ - INFO - Plate candidate: 'KDPP 777M' -> 'KDPP777M', score: 0.300
+2025-08-25 09:48:16,673 - __main__ - INFO - Plate candidate: 'KPP 777M' -> 'KPP777M', score: 0.681
+2025-08-25 09:48:17,775 - __main__ - INFO - Plate candidate: 'KpP 777M' -> 'KPP777M', score: 0.832
+2025-08-25 09:48:17,776 - __main__ - INFO - Plate candidate: 'KDPP 777M' -> 'KDPP777M', score: 0.300
+2025-08-25 09:48:17,776 - __main__ - INFO - Plate candidate: 'KpP 777M' -> 'KPP777M', score: 0.797
+2025-08-25 09:48:18,459 - __main__ - INFO - Skipping small detection: 3975 < 4000
+2025-08-25 09:48:18,460 - __main__ - INFO - Detected 3 unique Kenyan vehicle(s) after NMS filtering
+2025-08-25 09:48:18,475 - __main__ - INFO - Kenyan results saved to: kenyan_results.jpg
+2025-08-25 09:48:18,479 - __main__ - INFO - Kenyan JSON report saved to: kenyan_vehicle_report.json
+2025-08-25 09:55:14,617 - __main__ - INFO - Initializing Kenyan vehicle detection models...
+2025-08-25 09:55:14,886 - easyocr.easyocr - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2025-08-25 09:55:18,559 - __main__ - INFO - Kenyan vehicle detector initialized successfully
+2025-08-25 09:55:18,598 - __main__ - INFO - Processing Kenyan vehicle detection: (439, 595, 3)
+2025-08-25 09:55:24,700 - __main__ - INFO - Better plate candidate: 'KpP777m' -> 'KPP777M', score: 0.485
+2025-08-25 09:55:24,701 - __main__ - INFO - Better plate candidate: 'KpP 777m' -> 'KPP777M', score: 0.527
+2025-08-25 09:55:28,592 - __main__ - INFO - Selected single best detection with confidence: 0.922
+2025-08-25 09:55:28,602 - __main__ - INFO - Kenyan results saved to: kenyan_results.jpg
+2025-08-25 10:00:46,718 - __main__ - INFO - Initializing Kenyan vehicle detection models...
+2025-08-25 10:00:46,986 - easyocr.easyocr - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2025-08-25 10:00:50,116 - __main__ - INFO - Kenyan vehicle detector initialized successfully
+2025-08-25 10:00:50,153 - __main__ - INFO - Processing Kenyan vehicle detection: (439, 595, 3)
+2025-08-25 10:01:04,856 - __main__ - INFO - Selected single best detection with confidence: 0.922
+2025-08-25 10:01:04,868 - __main__ - INFO - Kenyan results saved to: kenyan_results.jpg
+2025-08-25 10:09:44,456 - __main__ - INFO - Initializing Kenyan vehicle detection models...
+2025-08-25 10:09:44,834 - easyocr.easyocr - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2025-08-25 10:09:50,534 - __main__ - INFO - Kenyan vehicle detector initialized successfully
+2025-08-25 10:09:50,613 - __main__ - INFO - Processing Kenyan vehicle detection: (439, 595, 3)
+2025-08-25 10:10:05,359 - __main__ - INFO - Selected single best detection with confidence: 0.922
+2025-08-25 10:10:05,370 - __main__ - INFO - Kenyan results saved to: kenyan_results.jpg
+2025-08-25 10:22:16,015 - __main__ - INFO - Initializing Kenyan vehicle detection models...
+2025-08-25 10:22:16,286 - easyocr.easyocr - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2025-08-25 10:22:19,175 - __main__ - INFO - Kenyan vehicle detector initialized successfully
+2025-08-25 10:22:19,220 - __main__ - INFO - Processing Kenyan vehicle detection: (439, 595, 3)
+2025-08-25 10:22:23,060 - __main__ - INFO - Analyzing vehicle crop: 595x439
+2025-08-25 10:22:24,052 - __main__ - INFO - PLATE CANDIDATE: 'EKIP 7' -> 'EK1P7' (score: 0.145, method: original, region: 1)
+2025-08-25 10:22:24,938 - __main__ - INFO - PLATE CANDIDATE: 'KOP77' -> 'K0P77' (score: 0.317, method: enhanced_contrast, region: 1)
+2025-08-25 10:22:25,919 - __main__ - INFO - PLATE CANDIDATE: 'EKWT' -> 'EKW7' (score: 0.173, method: adaptive_binary, region: 1)
+2025-08-25 10:22:26,814 - __main__ - INFO - PLATE CANDIDATE: 'KPY7' -> 'KPY7' (score: 0.174, method: gamma_corrected, region: 1)
+2025-08-25 10:22:28,801 - __main__ - INFO - PLATE CANDIDATE: 'KpP 777M' -> 'KKP777M' (score: 0.765, method: original, region: 2)
+2025-08-25 10:22:29,803 - __main__ - INFO - PLATE CANDIDATE: 'KpP 777M' -> 'KKP777M' (score: 0.796, method: enhanced_contrast, region: 2)
+2025-08-25 10:22:30,797 - __main__ - INFO - PLATE CANDIDATE: 'KIP 777M' -> 'K1P777M' (score: 0.667, method: adaptive_binary, region: 2)
+2025-08-25 10:22:31,789 - __main__ - INFO - PLATE CANDIDATE: 'KDP  777M' -> 'KDP777M' (score: 0.781, method: gamma_corrected, region: 2)
+2025-08-25 10:22:32,792 - __main__ - INFO - PLATE CANDIDATE: 'KIFP 777M' -> 'K1FP777M' (score: 0.513, method: sharpened, region: 2)
+2025-08-25 10:22:36,448 - __main__ - INFO - PLATE CANDIDATE: 'KpP 7' -> 'KKP7' (score: 0.211, method: enhanced_contrast, region: 3)
+2025-08-25 10:22:38,134 - __main__ - INFO - PLATE CANDIDATE: 'EKWzz' -> 'EKW22' (score: 0.280, method: adaptive_binary, region: 3)
+2025-08-25 10:22:39,826 - __main__ - INFO - PLATE CANDIDATE: 'KpPY7' -> 'KKPY7' (score: 0.245, method: gamma_corrected, region: 3)
+2025-08-25 10:22:44,044 - __main__ - INFO - PLATE CANDIDATE: 'KPY7' -> 'KPY7' (score: 0.159, method: original, region: 4)
+2025-08-25 10:22:46,380 - __main__ - INFO - PLATE CANDIDATE: 'KpPY7' -> 'KKPY7' (score: 0.242, method: enhanced_contrast, region: 4)
+2025-08-25 10:22:48,716 - __main__ - INFO - PLATE CANDIDATE: 'EKWzz' -> 'EKW22' (score: 0.280, method: adaptive_binary, region: 4)
+2025-08-25 10:22:51,059 - __main__ - INFO - PLATE CANDIDATE: 'KPY77' -> 'KPY77' (score: 0.258, method: gamma_corrected, region: 4)
+2025-08-25 10:22:53,446 - __main__ - INFO - SELECTED PLATE: 'KpP 777M' -> 'KKP777M' (final score: 0.796, method: enhanced_contrast, region: 2)
+2025-08-25 10:22:53,468 - __main__ - INFO - Selected single best detection with confidence: 0.922
+2025-08-25 10:22:53,477 - __main__ - INFO - Enhanced results saved to: kenyan_results_enhanced.jpg
+2025-08-25 10:22:53,478 - __main__ - INFO - Initializing Kenyan vehicle detection models...
+2025-08-25 10:22:53,789 - easyocr.easyocr - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2025-08-25 10:22:56,784 - __main__ - INFO - Kenyan vehicle detector initialized successfully
+2025-08-25 10:22:56,855 - __main__ - INFO - Processing Kenyan vehicle detection: (439, 595, 3)
+2025-08-25 10:23:00,832 - __main__ - INFO - Analyzing vehicle crop: 595x439
+2025-08-25 10:23:01,715 - __main__ - INFO - PLATE CANDIDATE: 'EKIP 7' -> 'EK1P7' (score: 0.145, method: original, region: 1)
+2025-08-25 10:23:02,612 - __main__ - INFO - PLATE CANDIDATE: 'KOP77' -> 'K0P77' (score: 0.317, method: enhanced_contrast, region: 1)
+2025-08-25 10:23:03,565 - __main__ - INFO - PLATE CANDIDATE: 'EKWT' -> 'EKW7' (score: 0.173, method: adaptive_binary, region: 1)
+2025-08-25 10:23:04,458 - __main__ - INFO - PLATE CANDIDATE: 'KPY7' -> 'KPY7' (score: 0.174, method: gamma_corrected, region: 1)
+2025-08-25 10:23:06,417 - __main__ - INFO - PLATE CANDIDATE: 'KpP 777M' -> 'KKP777M' (score: 0.765, method: original, region: 2)
+2025-08-25 10:23:07,505 - __main__ - INFO - PLATE CANDIDATE: 'KpP 777M' -> 'KKP777M' (score: 0.796, method: enhanced_contrast, region: 2)
+2025-08-25 10:23:08,509 - __main__ - INFO - PLATE CANDIDATE: 'KIP 777M' -> 'K1P777M' (score: 0.667, method: adaptive_binary, region: 2)
+2025-08-25 10:23:09,523 - __main__ - INFO - PLATE CANDIDATE: 'KDP  777M' -> 'KDP777M' (score: 0.781, method: gamma_corrected, region: 2)
+2025-08-25 10:23:10,524 - __main__ - INFO - PLATE CANDIDATE: 'KIFP 777M' -> 'K1FP777M' (score: 0.513, method: sharpened, region: 2)
+2025-08-25 10:23:13,992 - __main__ - INFO - PLATE CANDIDATE: 'KpP 7' -> 'KKP7' (score: 0.211, method: enhanced_contrast, region: 3)
+2025-08-25 10:23:15,696 - __main__ - INFO - PLATE CANDIDATE: 'EKWzz' -> 'EKW22' (score: 0.280, method: adaptive_binary, region: 3)
+2025-08-25 10:23:17,395 - __main__ - INFO - PLATE CANDIDATE: 'KpPY7' -> 'KKPY7' (score: 0.245, method: gamma_corrected, region: 3)
+2025-08-25 10:23:21,525 - __main__ - INFO - PLATE CANDIDATE: 'KPY7' -> 'KPY7' (score: 0.159, method: original, region: 4)
+2025-08-25 10:23:23,876 - __main__ - INFO - PLATE CANDIDATE: 'KpPY7' -> 'KKPY7' (score: 0.242, method: enhanced_contrast, region: 4)
+2025-08-25 10:23:26,217 - __main__ - INFO - PLATE CANDIDATE: 'EKWzz' -> 'EKW22' (score: 0.280, method: adaptive_binary, region: 4)
+2025-08-25 10:23:28,564 - __main__ - INFO - PLATE CANDIDATE: 'KPY77' -> 'KPY77' (score: 0.258, method: gamma_corrected, region: 4)
+2025-08-25 10:23:30,965 - __main__ - INFO - SELECTED PLATE: 'KpP 777M' -> 'KKP777M' (final score: 0.796, method: enhanced_contrast, region: 2)
+2025-08-25 10:23:30,988 - __main__ - INFO - Selected single best detection with confidence: 0.922
+2025-08-25 10:23:30,999 - __main__ - INFO - Enhanced results saved to: kenyan_results_enhanced.jpg
+2025-08-25 10:38:41,532 - __main__ - INFO - Initializing Kenyan vehicle detection models...
+2025-08-25 10:38:41,789 - easyocr.easyocr - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2025-08-25 10:38:44,652 - __main__ - INFO - Kenyan vehicle detector initialized successfully
+2025-08-25 10:38:44,694 - __main__ - INFO - Processing Kenyan vehicle detection: (439, 595, 3)
+2025-08-25 10:38:48,574 - __main__ - INFO - Analyzing vehicle crop: 595x439
+2025-08-25 10:38:49,530 - __main__ - INFO - PLATE CANDIDATE: 'EKIP 7' -> 'EK1P7' (score: 0.145, method: original, region: 1)
+2025-08-25 10:38:50,413 - __main__ - INFO - PLATE CANDIDATE: 'KOP77' -> 'K0P77' (score: 0.317, method: enhanced_contrast, region: 1)
+2025-08-25 10:38:51,354 - __main__ - INFO - PLATE CANDIDATE: 'EKWT' -> 'EKW7' (score: 0.173, method: adaptive_binary, region: 1)
+2025-08-25 10:38:52,218 - __main__ - INFO - PLATE CANDIDATE: 'KPY7' -> 'KPY7' (score: 0.174, method: gamma_corrected, region: 1)
+2025-08-25 10:38:54,191 - __main__ - INFO - PLATE CANDIDATE: 'KpP 777M' -> 'KKP777M' (score: 0.765, method: original, region: 2)
+2025-08-25 10:38:55,176 - __main__ - INFO - PLATE CANDIDATE: 'KpP 777M' -> 'KKP777M' (score: 0.796, method: enhanced_contrast, region: 2)
+2025-08-25 10:38:56,165 - __main__ - INFO - PLATE CANDIDATE: 'KIP 777M' -> 'K1P777M' (score: 0.667, method: adaptive_binary, region: 2)
+2025-08-25 10:38:57,170 - __main__ - INFO - PLATE CANDIDATE: 'KDP  777M' -> 'KDP777M' (score: 0.781, method: gamma_corrected, region: 2)
+2025-08-25 10:38:58,174 - __main__ - INFO - PLATE CANDIDATE: 'KIFP 777M' -> 'K1FP777M' (score: 0.513, method: sharpened, region: 2)
+2025-08-25 10:39:01,744 - __main__ - INFO - PLATE CANDIDATE: 'KpP 7' -> 'KKP7' (score: 0.211, method: enhanced_contrast, region: 3)
+2025-08-25 10:39:03,444 - __main__ - INFO - PLATE CANDIDATE: 'EKWzz' -> 'EKW22' (score: 0.280, method: adaptive_binary, region: 3)
+2025-08-25 10:39:05,166 - __main__ - INFO - PLATE CANDIDATE: 'KpPY7' -> 'KKPY7' (score: 0.245, method: gamma_corrected, region: 3)
+2025-08-25 10:39:09,365 - __main__ - INFO - PLATE CANDIDATE: 'KPY7' -> 'KPY7' (score: 0.159, method: original, region: 4)
+2025-08-25 10:39:11,696 - __main__ - INFO - PLATE CANDIDATE: 'KpPY7' -> 'KKPY7' (score: 0.242, method: enhanced_contrast, region: 4)
+2025-08-25 10:39:14,067 - __main__ - INFO - PLATE CANDIDATE: 'EKWzz' -> 'EKW22' (score: 0.280, method: adaptive_binary, region: 4)
+2025-08-25 10:39:16,413 - __main__ - INFO - PLATE CANDIDATE: 'KPY77' -> 'KPY77' (score: 0.258, method: gamma_corrected, region: 4)
+2025-08-25 10:39:19,245 - __main__ - INFO - SELECTED PLATE: 'KpP 777M' -> 'KKP777M' (final score: 0.796, method: enhanced_contrast, region: 2)
+2025-08-25 10:39:19,267 - __main__ - INFO - Selected single best detection with confidence: 0.922
+2025-08-25 10:39:19,278 - __main__ - INFO - Enhanced results saved to: kenyan_results_enhanced.jpg
+2025-08-25 10:39:19,280 - __main__ - INFO - Initializing Kenyan vehicle detection models...
+2025-08-25 10:39:19,680 - easyocr.easyocr - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2025-08-25 10:39:23,263 - __main__ - INFO - Kenyan vehicle detector initialized successfully
+2025-08-25 10:39:23,338 - __main__ - INFO - Processing Kenyan vehicle detection: (439, 595, 3)
+2025-08-25 10:39:27,969 - __main__ - INFO - Analyzing vehicle crop: 595x439
+2025-08-25 10:39:29,002 - __main__ - INFO - PLATE CANDIDATE: 'EKIP 7' -> 'EK1P7' (score: 0.145, method: original, region: 1)
+2025-08-25 10:39:30,186 - __main__ - INFO - PLATE CANDIDATE: 'KOP77' -> 'K0P77' (score: 0.317, method: enhanced_contrast, region: 1)
+2025-08-25 10:39:31,357 - __main__ - INFO - PLATE CANDIDATE: 'EKWT' -> 'EKW7' (score: 0.173, method: adaptive_binary, region: 1)
+2025-08-25 10:39:32,439 - __main__ - INFO - PLATE CANDIDATE: 'KPY7' -> 'KPY7' (score: 0.174, method: gamma_corrected, region: 1)
+2025-08-25 10:39:34,899 - __main__ - INFO - PLATE CANDIDATE: 'KpP 777M' -> 'KKP777M' (score: 0.765, method: original, region: 2)
+2025-08-25 10:39:36,088 - __main__ - INFO - PLATE CANDIDATE: 'KpP 777M' -> 'KKP777M' (score: 0.796, method: enhanced_contrast, region: 2)
+2025-08-25 10:39:37,263 - __main__ - INFO - PLATE CANDIDATE: 'KIP 777M' -> 'K1P777M' (score: 0.667, method: adaptive_binary, region: 2)
+2025-08-25 10:39:38,519 - __main__ - INFO - PLATE CANDIDATE: 'KDP  777M' -> 'KDP777M' (score: 0.781, method: gamma_corrected, region: 2)
+2025-08-25 10:39:39,540 - __main__ - INFO - PLATE CANDIDATE: 'KIFP 777M' -> 'K1FP777M' (score: 0.513, method: sharpened, region: 2)
+2025-08-25 10:39:43,090 - __main__ - INFO - PLATE CANDIDATE: 'KpP 7' -> 'KKP7' (score: 0.211, method: enhanced_contrast, region: 3)
+2025-08-25 10:39:44,782 - __main__ - INFO - PLATE CANDIDATE: 'EKWzz' -> 'EKW22' (score: 0.280, method: adaptive_binary, region: 3)
+2025-08-25 10:39:46,533 - __main__ - INFO - PLATE CANDIDATE: 'KpPY7' -> 'KKPY7' (score: 0.245, method: gamma_corrected, region: 3)
+2025-08-25 10:39:50,661 - __main__ - INFO - PLATE CANDIDATE: 'KPY7' -> 'KPY7' (score: 0.159, method: original, region: 4)
+2025-08-25 10:39:53,019 - __main__ - INFO - PLATE CANDIDATE: 'KpPY7' -> 'KKPY7' (score: 0.242, method: enhanced_contrast, region: 4)
+2025-08-25 10:39:55,449 - __main__ - INFO - PLATE CANDIDATE: 'EKWzz' -> 'EKW22' (score: 0.280, method: adaptive_binary, region: 4)
+2025-08-25 10:39:57,801 - __main__ - INFO - PLATE CANDIDATE: 'KPY77' -> 'KPY77' (score: 0.258, method: gamma_corrected, region: 4)
+2025-08-25 10:40:00,211 - __main__ - INFO - SELECTED PLATE: 'KpP 777M' -> 'KKP777M' (final score: 0.796, method: enhanced_contrast, region: 2)
+2025-08-25 10:40:00,232 - __main__ - INFO - Selected single best detection with confidence: 0.922
+2025-08-25 10:40:00,244 - __main__ - INFO - Enhanced results saved to: kenyan_results_enhanced.jpg
+2025-08-25 10:59:03,141 - __main__ - INFO - Initializing Kenyan vehicle detection models...
+2025-08-25 10:59:03,343 - easyocr.easyocr - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2025-08-25 10:59:05,492 - __main__ - INFO - Kenyan vehicle detector initialized successfully
+2025-08-25 10:59:05,535 - easyocr.easyocr - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2025-08-25 10:59:07,727 - __main__ - INFO -    - Added KKP->KDP correction for your specific case
+2025-08-25 10:59:07,727 - __main__ - INFO -    - Improved character recognition accuracy
+2025-08-25 10:59:07,727 - __main__ - INFO -    - Enhanced preprocessing for difficult lighting
+2025-08-25 10:59:07,728 - __main__ - INFO -    - Better pattern matching for Kenyan plates
+2025-08-25 10:59:07,762 - __main__ - INFO - Processing Kenyan vehicle detection: (439, 595, 3)
+2025-08-25 10:59:10,232 - __main__ - INFO - Enhanced plate detection on region: 595x439
+2025-08-25 10:59:18,915 - __main__ - INFO - Applied prefix correction: 'KPP777M' -> 'KDP777M'
+2025-08-25 10:59:34,282 - __main__ - INFO - Applied prefix correction: 'KPP777' -> 'KDP777'
+2025-08-25 10:59:38,803 - __main__ - INFO - Applied prefix correction: 'KPP777N' -> 'KDP777N'
+2025-08-25 11:00:14,631 - __main__ - INFO - Found 29 plate candidates:
+2025-08-25 11:00:14,631 - __main__ - INFO -   1. 'KOP777M' -> 'KOP777M' (score: 0.770, method: clahe, region: 1)
+2025-08-25 11:00:14,632 - __main__ - INFO -   2. 'KpP 777m' -> 'KDP777M' (score: 0.735, method: clahe, region: 2)
+2025-08-25 11:00:14,632 - __main__ - INFO -   3. 'KpP777n' -> 'KDP777N' (score: 0.704, method: clahe, region: 4)
+2025-08-25 11:00:14,632 - __main__ - INFO -   4. 'KIP 777m' -> 'KIP777M' (score: 0.692, method: gamma_1_5, region: 2)
+2025-08-25 11:00:14,633 - __main__ - INFO -   5. 'KIP 777M' -> 'KIP777M' (score: 0.672, method: original, region: 2)
+2025-08-25 11:00:14,633 - __main__ - INFO - Selected best candidate: 'KOP777M' (confidence: 0.770)
+2025-08-25 11:00:14,633 - __main__ - INFO - Enhanced detection result: 'KOP777M' (confidence: 0.770)
+2025-08-25 11:00:14,650 - __main__ - INFO - Selected single best detection with confidence: 0.922
+2025-08-25 11:00:14,658 - __main__ - INFO - Enhanced results saved to: kenyan_results_enhanced.jpg
+2025-08-28 10:35:06,992 - __main__ - INFO - Initializing Kenyan vehicle detection models...
+2025-08-28 10:35:07,843 - easyocr.easyocr - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2025-08-28 10:35:11,870 - __main__ - INFO - Kenyan vehicle detector initialized successfully
+2025-08-28 10:35:11,871 - __main__ - INFO - Replacing with universal plate detection system...
+2025-08-28 10:35:11,873 - easyocr.easyocr - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2025-08-28 10:35:15,103 - __main__ - INFO - Universal plate detection system integrated successfully!
+2025-08-28 10:35:15,103 - __main__ - INFO - Features:
+2025-08-28 10:35:15,104 - __main__ - INFO - - Comprehensive preprocessing pipeline
+2025-08-28 10:35:15,105 - __main__ - INFO - - Multiple OCR configurations
+2025-08-28 10:35:15,105 - __main__ - INFO - - Format-aware character correction
+2025-08-28 10:35:15,106 - __main__ - INFO - - Universal pattern validation
+2025-08-28 10:35:15,107 - __main__ - INFO - - Advanced candidate scoring
+2025-08-28 10:35:15,219 - __main__ - INFO - Processing Kenyan vehicle detection: (439, 595, 3)
+2025-08-28 10:35:20,202 - __main__ - INFO - Universal plate detection on (439, 595, 3) image
+2025-08-28 10:40:11,351 - __main__ - INFO - Found 65 total candidates:
+2025-08-28 10:40:11,351 - __main__ - INFO -   1. 'KPP 777M' -> 'KPP777M' (score: 0.865, method: bilateral)
+2025-08-28 10:40:11,352 - __main__ - INFO -   2. 'KDP 777M' -> 'KDP777M' (score: 0.855, method: original)
+2025-08-28 10:40:11,352 - __main__ - INFO -   3. 'KpP 777M' -> 'KPP777M' (score: 0.837, method: clahe)
+2025-08-28 10:40:11,353 - __main__ - INFO - Universal detection result: 'KPP777M' (confidence: 0.865)
+2025-08-28 10:40:11,391 - __main__ - INFO - Selected single best detection with confidence: 0.922
+2025-08-28 10:40:11,419 - __main__ - INFO - Enhanced results saved to: kenyan_results_enhanced.jpg
+2025-08-28 10:44:28,142 - __main__ - INFO - Initializing Kenyan vehicle detection models...
+2025-08-28 10:44:28,932 - easyocr.easyocr - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2025-08-28 10:44:37,291 - __main__ - INFO - Kenyan vehicle detector initialized successfully
+2025-08-28 10:44:37,292 - __main__ - INFO - Replacing with universal plate detection system...
+2025-08-28 10:44:37,298 - easyocr.easyocr - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2025-08-28 10:44:45,191 - __main__ - INFO - Universal plate detection system integrated successfully!
+2025-08-28 10:44:45,192 - __main__ - INFO - Features:
+2025-08-28 10:44:45,192 - __main__ - INFO - - Comprehensive preprocessing pipeline
+2025-08-28 10:44:45,193 - __main__ - INFO - - Multiple OCR configurations
+2025-08-28 10:44:45,194 - __main__ - INFO - - Format-aware character correction
+2025-08-28 10:44:45,195 - __main__ - INFO - - Universal pattern validation
+2025-08-28 10:44:45,197 - __main__ - INFO - - Advanced candidate scoring
+2025-08-28 10:44:45,241 - __main__ - INFO - Processing Kenyan vehicle detection: (222, 333, 3)
+2025-08-28 10:44:51,189 - __main__ - INFO - Universal plate detection on (222, 291, 3) image
+2025-08-28 10:47:55,717 - __main__ - INFO - Found 25 total candidates:
+2025-08-28 10:47:55,717 - __main__ - INFO -   1. 'KapL480' -> 'GAPL480' (score: 0.644, method: bilateral)
+2025-08-28 10:47:55,718 - __main__ - INFO -   2. 'Ekou 48on' -> 'EKOU480N' (score: 0.616, method: clahe)
+2025-08-28 10:47:55,718 - __main__ - INFO -   3. 'Fkqu Z80T' -> 'FKQU280T' (score: 0.557, method: morph_close)
+2025-08-28 10:47:55,719 - __main__ - INFO - Universal detection result: 'GAPL480' (confidence: 0.644)
+2025-08-28 10:47:55,725 - __main__ - INFO - Selected single best detection with confidence: 0.972
+2025-08-28 10:47:55,733 - __main__ - INFO - Enhanced results saved to: kenyan_results_enhanced.jpg
+2025-08-28 11:09:43,582 - __main__ - INFO - Initializing Kenyan vehicle detection models...
+2025-08-28 11:09:43,877 - easyocr.easyocr - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2025-08-28 11:09:47,219 - __main__ - INFO - Kenyan vehicle detector initialized successfully
+2025-08-28 11:09:47,234 - __main__ - INFO - Processing Kenyan vehicle detection: (222, 333, 3)
+2025-08-28 11:09:51,068 - __main__ - INFO - Detecting license plate on (222, 291, 3) image
+2025-08-28 11:10:12,226 - __main__ - INFO - Best plate result: 'KPU480T' (confidence: 0.848)
+2025-08-28 11:10:12,232 - __main__ - INFO - Selected single best detection with confidence: 0.972
+2025-08-28 11:10:12,240 - __main__ - INFO - Enhanced results saved to: kenyan_results_enhanced.jpg
+2025-08-28 11:12:46,182 - __main__ - INFO - Initializing Kenyan vehicle detection models...
+2025-08-28 11:12:46,476 - easyocr.easyocr - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2025-08-28 11:12:49,135 - __main__ - INFO - Kenyan vehicle detector initialized successfully
+2025-08-28 11:12:49,148 - __main__ - INFO - Processing Kenyan vehicle detection: (222, 333, 3)
+2025-08-28 11:12:52,792 - __main__ - INFO - Detecting license plate on (222, 291, 3) image
+2025-08-28 11:13:10,093 - __main__ - INFO - Best plate result: 'KDU480T' (confidence: 0.848)
+2025-08-28 11:13:10,099 - __main__ - INFO - Selected single best detection with confidence: 0.972
+2025-08-28 11:13:10,106 - __main__ - INFO - Enhanced results saved to: kenyan_results_enhanced.jpg
+2025-08-28 11:13:53,738 - __main__ - INFO - Initializing Kenyan vehicle detection models...
+2025-08-28 11:13:53,984 - easyocr.easyocr - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2025-08-28 11:13:56,777 - __main__ - INFO - Kenyan vehicle detector initialized successfully
+2025-08-28 11:13:56,831 - __main__ - INFO - Processing Kenyan vehicle detection: (439, 595, 3)
+2025-08-28 11:14:01,396 - __main__ - INFO - Detecting license plate on (439, 595, 3) image
+2025-08-28 11:14:30,398 - __main__ - INFO - Best plate result: 'KDP777M' (confidence: 0.956)
+2025-08-28 11:14:30,417 - __main__ - INFO - Selected single best detection with confidence: 0.922
+2025-08-28 11:14:30,428 - __main__ - INFO - Enhanced results saved to: kenyan_results_enhanced.jpg

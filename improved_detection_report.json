@@ -1,0 +1,89 @@
+{
+  "metadata": {
+    "timestamp": "2025-08-24T17:45:15.414101",
+    "detector_version": "2.0.0",
+    "total_detections": 2
+  },
+  "detections": [
+    {
+      "id": 1,
+      "vehicle_type": "car",
+      "make_model": "Compact Car",
+      "color": "Silver",
+      "license_plate": {
+        "text": "KCU333A",
+        "confidence": 0.7638932366817783
+      },
+      "heavy_load": {
+        "detected": false,
+        "confidence": 0.8
+      },
+      "detection_confidence": 0.9405817985534668,
+      "bounding_box": {
+        "x1": 44,
+        "y1": 0,
+        "x2": 424,
+        "y2": 240
+      },
+      "timestamp": "2025-08-24T17:45:15.330333",
+      "additional_features": {
+        "dimensions": {
+          "height": "240",
+          "width": "380",
+          "aspect_ratio": "1.5833333333333333"
+        },
+        "image_quality": {
+          "sharpness": "208.6662991534655",
+          "brightness": "105.3309649122807",
+          "contrast": "72.7389183513791",
+          "overall_quality": 0.8287809431860801
+        },
+        "lighting_conditions": {
+          "condition": "Mixed lighting",
+          "brightness_level": "105.3309649122807",
+          "uniformity": "27.2610816486209"
+        }
+      }
+    },
+    {
+      "id": 2,
+      "vehicle_type": "car",
+      "make_model": "Compact Car",
+      "color": "Silver",
+      "license_plate": {
+        "text": "No plate detected",
+        "confidence": 0.0
+      },
+      "heavy_load": {
+        "detected": false,
+        "confidence": 0.8
+      },
+      "detection_confidence": 0.5151844620704651,
+      "bounding_box": {
+        "x1": 34,
+        "y1": 34,
+        "x2": 142,
+        "y2": 126
+      },
+      "timestamp": "2025-08-24T17:45:15.408094",
+      "additional_features": {
+        "dimensions": {
+          "height": "92",
+          "width": "108",
+          "aspect_ratio": "1.173913043478261"
+        },
+        "image_quality": {
+          "sharpness": "371.8662425027422",
+          "brightness": "153.43669484702093",
+          "contrast": "71.95781228818318",
+          "overall_quality": 0.8707661032580182
+        },
+        "lighting_conditions": {
+          "condition": "Mixed lighting",
+          "brightness_level": "153.43669484702093",
+          "uniformity": "28.042187711816823"
+        }
+      }
+    }
+  ]
+}

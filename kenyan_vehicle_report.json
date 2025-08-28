@@ -1,0 +1,172 @@
+{
+  "metadata": {
+    "timestamp": "2025-08-25T09:48:18.476048",
+    "detector_version": "Kenyan Market v1.0",
+    "total_detections": 3,
+    "market_focus": "Kenya"
+  },
+  "market_analysis": {
+    "total_vehicles": 3,
+    "unique_models": 1,
+    "model_distribution": {
+      "Subaru Forester": 3
+    },
+    "color_distribution": {
+      "Blue": 3
+    },
+    "market_category_distribution": {
+      "Common (Top 50%)": 3
+    },
+    "plates_detected": 1,
+    "kenyan_plates": 1,
+    "commercial_vehicles": 0,
+    "avg_detection_confidence": 0.905676265557607,
+    "avg_model_confidence": 0.5
+  },
+  "detections": [
+    {
+      "id": 1,
+      "vehicle_type": "car",
+      "kenyan_model_prediction": "Subaru Forester",
+      "model_confidence": 0.5,
+      "market_category": "Common (Top 50%)",
+      "color": "Blue",
+      "license_plate": {
+        "text": "KPP777M",
+        "confidence": 0.8324480144154747,
+        "kenyan_format": true
+      },
+      "heavy_load": {
+        "detected": false,
+        "confidence": 0.8
+      },
+      "detection_confidence": 0.9217743873596191,
+      "bounding_box": {
+        "x1": 34,
+        "y1": 0,
+        "x2": 579,
+        "y2": 439
+      },
+      "timestamp": "2025-08-25T09:48:17.794749",
+      "additional_features": {
+        "dimensions": {
+          "height": "439",
+          "width": "545",
+          "aspect_ratio": "1.2414578587699316"
+        },
+        "image_quality": {
+          "sharpness": "3096.0155768501754",
+          "brightness": "98.68526049612338",
+          "contrast": "75.01625083380723",
+          "overall_quality": "1.0"
+        },
+        "lighting_conditions": {
+          "condition": "Mixed shadows",
+          "brightness_level": "98.68526049612338",
+          "uniformity": "24.983749166192766",
+          "harsh_shadows": true
+        },
+        "road_conditions": {
+          "surface_type": "Rough/Unpaved",
+          "texture_variance": "2430.999073802467"
+        }
+      }
+    },
+    {
+      "id": 2,
+      "vehicle_type": "car",
+      "kenyan_model_prediction": "Subaru Forester",
+      "model_confidence": 0.5,
+      "market_category": "Common (Top 50%)",
+      "color": "Blue",
+      "license_plate": {
+        "text": "No plate detected",
+        "confidence": 0.0,
+        "kenyan_format": false
+      },
+      "heavy_load": {
+        "detected": false,
+        "confidence": 0.8
+      },
+      "detection_confidence": 0.9103693962097168,
+      "bounding_box": {
+        "x1": 0,
+        "y1": 28,
+        "x2": 81,
+        "y2": 140
+      },
+      "timestamp": "2025-08-25T09:48:18.140128",
+      "additional_features": {
+        "dimensions": {
+          "height": "112",
+          "width": "81",
+          "aspect_ratio": "0.7232142857142857"
+        },
+        "image_quality": {
+          "sharpness": "5227.325486629693",
+          "brightness": "106.98346560846561",
+          "contrast": "68.9588078995813",
+          "overall_quality": "1.0"
+        },
+        "lighting_conditions": {
+          "condition": "Mixed shadows",
+          "brightness_level": "106.98346560846561",
+          "uniformity": "31.041192100418698",
+          "harsh_shadows": true
+        },
+        "road_conditions": {
+          "surface_type": "Paved",
+          "texture_variance": "358.7143120155792"
+        }
+      }
+    },
+    {
+      "id": 3,
+      "vehicle_type": "car",
+      "kenyan_model_prediction": "Subaru Forester",
+      "model_confidence": 0.5,
+      "market_category": "Common (Top 50%)",
+      "color": "Blue",
+      "license_plate": {
+        "text": "No plate detected",
+        "confidence": 0.0,
+        "kenyan_format": false
+      },
+      "heavy_load": {
+        "detected": false,
+        "confidence": 0.8
+      },
+      "detection_confidence": 0.8848850131034851,
+      "bounding_box": {
+        "x1": 11,
+        "y1": 30,
+        "x2": 105,
+        "y2": 123
+      },
+      "timestamp": "2025-08-25T09:48:18.459134",
+      "additional_features": {
+        "dimensions": {
+          "height": "93",
+          "width": "94",
+          "aspect_ratio": "1.010752688172043"
+        },
+        "image_quality": {
+          "sharpness": "6097.092308810785",
+          "brightness": "110.49405170441547",
+          "contrast": "71.92843808145294",
+          "overall_quality": "1.0"
+        },
+        "lighting_conditions": {
+          "condition": "Mixed shadows",
+          "brightness_level": "110.49405170441547",
+          "uniformity": "28.07156191854706",
+          "harsh_shadows": true
+        },
+        "road_conditions": {
+          "surface_type": "Rough/Unpaved",
+          "texture_variance": "2888.2437999169847"
+        }
+      }
+    }
+  ]
+}

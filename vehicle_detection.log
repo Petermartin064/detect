@@ -1,0 +1,37 @@
+2025-08-24 17:20:01,907 - __main__ - INFO - Initializing detection models...
+2025-08-24 17:21:59,500 - easyocr.easyocr - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2025-08-24 17:22:01,714 - __main__ - INFO - Vehicle detector initialized successfully
+2025-08-24 17:22:01,915 - __main__ - INFO - Processing image: (248, 495, 3)
+2025-08-24 17:22:17,039 - __main__ - INFO - Detected 3 vehicles
+2025-08-24 17:22:17,047 - __main__ - INFO - Results saved to: production_results.jpg
+2025-08-24 17:23:55,284 - __main__ - INFO - Initializing detection models...
+2025-08-24 17:23:55,481 - easyocr.easyocr - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2025-08-24 17:23:57,657 - __main__ - INFO - Vehicle detector initialized successfully
+2025-08-24 17:23:57,658 - __main__ - ERROR - Image preprocessing failed: [Errno 2] No such file or directory: 'your_image.jpg'
+2025-08-24 17:23:57,658 - __main__ - ERROR - Failed to load image: your_image.jpg
+2025-08-24 17:24:35,516 - __main__ - INFO - Initializing detection models...
+2025-08-24 17:24:35,706 - easyocr.easyocr - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2025-08-24 17:24:38,093 - __main__ - INFO - Vehicle detector initialized successfully
+2025-08-24 17:24:38,276 - __main__ - INFO - Processing image: (248, 495, 3)
+2025-08-24 17:24:56,528 - __main__ - INFO - Detected 3 vehicles
+2025-08-24 17:24:56,538 - __main__ - INFO - Results saved to: production_results.jpg
+2025-08-24 17:24:56,541 - __main__ - INFO - JSON report saved to: detection_report.json
+2025-08-24 17:34:03,209 - __main__ - INFO - Initializing detection models...
+2025-08-24 17:34:03,344 - easyocr.easyocr - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2025-08-24 17:34:05,668 - __main__ - INFO - Vehicle detector initialized successfully
+2025-08-24 17:34:05,674 - __main__ - INFO - Processing image: (248, 495, 3)
+2025-08-24 17:34:05,896 - __main__ - INFO - Detected 0 vehicles
+2025-08-24 17:35:01,551 - __main__ - INFO - Initializing detection models...
+2025-08-24 17:35:01,742 - easyocr.easyocr - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2025-08-24 17:35:03,894 - __main__ - INFO - Vehicle detector initialized successfully
+2025-08-24 17:35:04,062 - __main__ - INFO - Processing image: (248, 495, 3)
+2025-08-24 17:35:19,875 - __main__ - INFO - Detected 3 vehicles
+2025-08-24 17:35:19,883 - __main__ - INFO - Results saved to: production_results.jpg
+2025-08-24 17:35:19,886 - __main__ - INFO - JSON report saved to: detection_report.json
+2025-08-24 17:45:10,643 - __main__ - INFO - Initializing detection models...
+2025-08-24 17:45:10,828 - easyocr.easyocr - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2025-08-24 17:45:13,015 - __main__ - INFO - Vehicle detector initialized successfully
+2025-08-24 17:45:13,029 - __main__ - INFO - Processing image: (248, 495, 3)
+2025-08-24 17:45:15,408 - __main__ - INFO - Detected 2 vehicles after filtering
+2025-08-24 17:45:15,413 - __main__ - INFO - Results saved to: improved_results.jpg
+2025-08-24 17:45:15,415 - __main__ - INFO - JSON report saved to: improved_detection_report.json

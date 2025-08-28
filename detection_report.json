@@ -1,0 +1,180 @@
+{
+  "metadata": {
+    "timestamp": "2025-08-24T17:35:19.884110",
+    "detector_version": "1.0.0",
+    "total_detections": 3
+  },
+  "detections": [
+    {
+      "id": 1,
+      "vehicle_type": "truck",
+      "make_model": "Commercial Truck (Isuzu Forward type)",
+      "color": "Unknown",
+      "license_plate": {
+        "text": "KCU333A",
+        "confidence": 0.7487650675619284
+      },
+      "heavy_load": {
+        "detected": true,
+        "confidence": 0.875
+      },
+      "detection_confidence": 0.434388130903244,
+      "bounding_box": {
+        "x1": 23,
+        "y1": 0,
+        "x2": 495,
+        "y2": 248
+      },
+      "timestamp": "2025-08-24T17:35:12.047366",
+      "additional_features": {
+        "dimensions": {
+          "height": "248",
+          "width": "472",
+          "aspect_ratio": "1.903225806451613"
+        },
+        "image_quality": {
+          "sharpness": "501.9067619935883",
+          "brightness": "104.6759328868234",
+          "contrast": "73.71490062581135",
+          "overall_quality": "1.0"
+        },
+        "lighting_conditions": {
+          "condition": "Mixed lighting",
+          "brightness_level": "108.70503007107709",
+          "uniformity": "23.451761265718318"
+        },
+        "vehicle_angle": {
+          "estimated_angle": "Unclear",
+          "symmetry_score": "0.3001725375652313",
+          "confidence": "0.39965492486953735"
+        },
+        "occlusion_level": {
+          "level": "Low",
+          "score": "0.1616830644367763",
+          "region_densities": {
+            "top": "45.38135593220339",
+            "middle": "40.629722278946296",
+            "bottom": "32.25903614457831",
+            "left": "48.11703821656051",
+            "center": "30.493116909800698",
+            "right": "39.586693548387096"
+          }
+        }
+      }
+    },
+    {
+      "id": 2,
+      "vehicle_type": "car",
+      "make_model": "Compact Car",
+      "color": "Unknown",
+      "license_plate": {
+        "text": "KCU333A",
+        "confidence": 0.7487650675619284
+      },
+      "heavy_load": {
+        "detected": false,
+        "confidence": 0.22499999999999998
+      },
+      "detection_confidence": 0.4000362455844879,
+      "bounding_box": {
+        "x1": 23,
+        "y1": 0,
+        "x2": 447,
+        "y2": 248
+      },
+      "timestamp": "2025-08-24T17:35:18.349522",
+      "additional_features": {
+        "dimensions": {
+          "height": "248",
+          "width": "424",
+          "aspect_ratio": "1.7096774193548387"
+        },
+        "image_quality": {
+          "sharpness": "491.3636193930079",
+          "brightness": "104.5259148660986",
+          "contrast": "73.82914500635779",
+          "overall_quality": "1.0"
+        },
+        "lighting_conditions": {
+          "condition": "Mixed lighting",
+          "brightness_level": "108.55746918746196",
+          "uniformity": "23.232557731657167"
+        },
+        "vehicle_angle": {
+          "estimated_angle": "Unclear",
+          "symmetry_score": "0.673891007900238",
+          "confidence": "0.3477820158004761"
+        },
+        "occlusion_level": {
+          "level": "Low",
+          "score": "0.1582325087625585",
+          "region_densities": {
+            "top": "43.03051656695812",
+            "middle": "41.46865764946579",
+            "bottom": "34.092265287565354",
+            "left": "49.4423472889499",
+            "center": "30.00815030885381",
+            "right": "39.10154475238528"
+          }
+        }
+      }
+    },
+    {
+      "id": 3,
+      "vehicle_type": "car",
+      "make_model": "SUV (Toyota Prado type)",
+      "color": "Unknown",
+      "license_plate": {
+        "text": "No plate detected",
+        "confidence": 0.0
+      },
+      "heavy_load": {
+        "detected": true,
+        "confidence": 0.7448462613556953
+      },
+      "detection_confidence": 0.3827325701713562,
+      "bounding_box": {
+        "x1": 14,
+        "y1": 12,
+        "x2": 163,
+        "y2": 171
+      },
+      "timestamp": "2025-08-24T17:35:19.874447",
+      "additional_features": {
+        "dimensions": {
+          "height": "159",
+          "width": "149",
+          "aspect_ratio": "0.9371069182389937"
+        },
+        "image_quality": {
+          "sharpness": "600.1871527892977",
+          "brightness": "147.28453843231608",
+          "contrast": "67.712002801496",
+          "overall_quality": "1.0"
+        },
+        "lighting_conditions": {
+          "condition": "Mixed lighting",
+          "brightness_level": "152.85939808366047",
+          "uniformity": "31.610001662138018"
+        },
+        "vehicle_angle": {
+          "estimated_angle": "Angled view",
+          "symmetry_score": "0.07841930538415909",
+          "confidence": "0.843161404132843"
+        },
+        "occlusion_level": {
+          "level": "Low",
+          "score": "0.17210004251040278",
+          "region_densities": {
+            "top": "51.116246675952894",
+            "middle": "51.955806002279346",
+            "bottom": "38.555147524376345",
+            "left": "48.70234886407393",
+            "center": "58.31320754716981",
+            "right": "34.64150943396226"
+          }
+        }
+      }
+    }
+  ]
+}
