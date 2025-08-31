@@ -1,9 +1,6 @@
 services:
   - type: web
     name: image-upload-api
-    env: python
-    buildCommand: |
-      python --version
-      pip install --upgrade pip
-      pip install --only-binary=all --no-build-isolation -r requirements.txt
-    startCommand: gunicorn --bind 0.0.0.0:$PORT app:app
+    env: docker
+    dockerfilePath: ./Dockerfile
+    region: oregon
